@@ -1,4 +1,4 @@
-# Pokémon Team Selector
+# Pokémon Team Builder
 
 แอป Flutter สำหรับสร้างและจัดการทีม Pokémon โดยดึงข้อมูลจาก [PokeAPI](https://pokeapi.co/)  
 
