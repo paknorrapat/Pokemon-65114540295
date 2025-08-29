@@ -16,7 +16,7 @@
 - 💡 แถบค้นหาเพื่อกรอง/ค้นหา Pokémon ในรายการ
 
 ## 🚀 วิธีรันโปรเจกต์ (How to Run)
----
+
 ### 1. 📥 Clone โปรเจกต์
 ```bash
 git clone https://github.com/paknorrapat/Pokemon-65114540295.git
