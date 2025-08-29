@@ -1,16 +1,34 @@
-# pokemon
+# Pokémon Team Selector
 
-A new Flutter project.
+แอป Flutter สำหรับสร้างและจัดการทีม Pokémon โดยดึงข้อมูลจาก [PokeAPI](https://pokeapi.co/)  
 
-## Getting Started
+## 🏫 รายวิชา (Course Information)
+- **วิชา:** Mobile Application Programming
+- **ผู้พัฒนา:** 65114540295 นรภัทร พันรอบ 
 
-This project is a starting point for a Flutter application.
+## ข้อกำหนด
 
-A few resources to get you started if this is your first Flutter project:
+- 🖼️ แสดงรูปภาพ Pokémon จาก PokeAPI ข้างชื่อ
+- ✏️ แก้ไขชื่อทีมได้และบันทึกด้วย GetStorage
+- 🎨 เพิ่มเอฟเฟกต์หรือแอนิเมชันเมื่อเลือก/ยกเลิก Pokémon
+- 📦 บันทึกทีมพร้อมชื่อและรูปภาพให้คงอยู่แม้รีสตาร์ท
+- 🔗 ปุ่มรีเซ็ตทีมเพื่อล้างการเลือกทั้งหมด
+- 💡 แถบค้นหาเพื่อกรอง/ค้นหา Pokémon ในรายการ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. 📥 Clone โปรเจกต์
+```bash
+git clone https://github.com/paknorrapat/Pokemon-65114540295.git
+```
+### 2. 📁 เข้าโฟลเดอร์โปรเจกต์
+```bash
+cd Pokemon-65114540295
+```
+### 3. ⚙️ ติดตั้ง dependencies
+```bash
+flutter pub get
+```
+### 4. 🌐 รันโปรเจกต์บน Chrome (หรือเลือก Device อื่น)
+```bash
+flutter run -d chrome
+```
